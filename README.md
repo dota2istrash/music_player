@@ -1,2 +1,2 @@
 # music_player
-My decktop music player on PyQT5
+My desktop music player on PyQT5
